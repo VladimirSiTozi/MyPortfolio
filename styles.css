@@ -2265,10 +2265,16 @@
     box-shadow: var(--shadow-2);
   }
 
-
   @media (max-width: 400px) {
     .certificate-container {
+      padding: 0px;
       border: none !important;
-  }
+    }
+
+    .timeline-list {
+      font-size: var(--fs-6);
+      margin-left: 45px;
+    }
+
   }
   
