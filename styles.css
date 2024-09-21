@@ -151,6 +151,7 @@
   
   html {
     font-family: var(--ff-poppins);
+  }
   
   body {
      /* old backgorund */
@@ -2284,4 +2285,3 @@
     }
 
   }
-}
