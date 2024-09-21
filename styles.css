@@ -157,7 +157,7 @@
      /* old backgorund */
     background: var(--sha-background);
     /* new background */
-    background-image: url('assets/images/background/world-map-matrix-background-1.avif');  
+    background-image: url('assets/images/background/world-map-matrix-background-optimized.jpg');  
     background-attachment: fixed;           
     background-position: center;           
     background-repeat: no-repeat;          
