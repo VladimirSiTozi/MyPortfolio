@@ -43,8 +43,8 @@
     --jet: hsl(0, 0%, 22%);
     --onyx: hsla(240, 1%, 17%, 0.686);
     --eerie-black-1: hsla(240, 3%, 13%, 0.836);
-    --eerie-black-2: hsla(240, 2%, 12%, 0.418);
-    --sha-background: linear-gradient(to bottom, #23d3ff 0%, #276aa5 100%);
+    --eerie-black-2: hsla(240, 2%, 12%, 0.900);  /* The transparency */
+    --sha-background: linear-gradient(to bottom, #23d3ff 0%, #276aa5 100%);  /* old backgorund */
     --white-1: hsl(0, 0%, 100%);
     --white-2: hsl(0, 0%, 98%);
     --orange-yellow-crayola: hsl(45, 100%, 72%);
@@ -151,10 +151,16 @@
   
   html {
     font-family: var(--ff-poppins);
-  }
   
   body {
+     /* old backgorund */
     background: var(--sha-background);
+    /* new background */
+    background-image: url('assets/images/background/world-map-matrix-background.jpg');  
+    background-attachment: fixed;           
+    background-position: center;           
+    background-repeat: no-repeat;          
+    background-size: cover;    
   }
   
   body.dark-mode {
