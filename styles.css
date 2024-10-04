@@ -43,7 +43,7 @@
     --jet: hsl(0, 0%, 22%);
     --onyx: hsla(240, 1%, 17%, 0.686);
     --eerie-black-1: hsla(240, 3%, 13%, 0.836);
-    --eerie-black-2: hsla(240, 2%, 12%, 0.300);  /* The transparency */
+    --eerie-black-2: hsla(240, 2%, 12%, 0.500);  /* The transparency */
     --sha-background: linear-gradient(to bottom, #23d3ff 0%, #276aa5 100%);  /* old backgorund */
     --white-1: hsl(0, 0%, 100%);
     --white-2: hsl(0, 0%, 98%);
