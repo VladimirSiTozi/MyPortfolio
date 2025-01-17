@@ -1,9 +1,4 @@
 :root {
-    /**
-     * colors
-     */
-  
-    /* gradient */
   
     --bg-gradient-onyx: linear-gradient(
       to bottom right,
@@ -949,6 +944,11 @@
     color: var(--light-gray);
     font-weight: var(--fw-300);
     line-height: 1.6;
+  }
+
+  .diploma {
+    font-size: 18px;
+    text-decoration: underline ;
   }
   
   /**
