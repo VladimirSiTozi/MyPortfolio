@@ -5,7 +5,7 @@ Fully responsive personal portfolio website, responsive for all devices, built u
 
 ## Demo
 
-![Desktop Demo](./assets/images/projects/portfolio-review.png "Desktop Demo")
+![image](https://github.com/user-attachments/assets/631acfd8-581f-40e7-9977-9ee6111b8a55)
 
 <p align="center">
   <a href="https://vladimirsitozi.github.io/MyPortfolio/"><strong><ion-icon name="enter-outline"></ion-icon> Live Demo</strong></a>
