@@ -1,6 +1,6 @@
 # MyPortfolio 
 
-Fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS and JavaScript.
+A fully responsive personal portfolio website designed to showcase my skills, projects, and achievements. This website is built using HTML, CSS, and JavaScript, ensuring compatibility with all devices, including desktops, tablets, and smartphones.
 
 
 ## Demo
