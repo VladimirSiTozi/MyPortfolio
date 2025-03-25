@@ -2229,14 +2229,17 @@
     position: relative;
     display: inline-block;
     padding: 5px;
-    border: 10px solid black;
+    border: 10px solid transparent; /* Transparent border to apply gradient */
     box-sizing: border-box;
-  }
+    border-radius: 12px; /* Rounded corners */
+    background:linear-gradient(45deg, #8B5A2B, #CD853F, #D2B48C, #A0522D) border-box; /* Wooden gradient */
+}
   
   .certificate-container img {
     display: block;
     width: 220px;
     height: auto;
+    border-radius: 12px; /* Rounded corners */
   }
   
   .certificate-container:hover img {
@@ -2252,7 +2255,6 @@
     left: 0;
     right: 0;
     bottom: 0;
-    border: 1px solid #000;
     pointer-events: none;
     box-sizing: border-box;
   }
