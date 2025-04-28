@@ -2232,7 +2232,7 @@
     border: 10px solid transparent; /* Transparent border to apply gradient */
     box-sizing: border-box;
     border-radius: 12px; /* Rounded corners */
-    background:linear-gradient(45deg, #8B5A2B, #CD853F, #D2B48C, #A0522D) border-box; /* Wooden gradient */
+    background: linear-gradient(45deg, #C0C0C0, #D3D3D3, #E0E0E0, #B0B0B0) border-box; /* Silver gradient */
 }
   
   .certificate-container img {
